@@ -1,4 +1,5 @@
 # pubsub
+The project is for the purpose of practice.
 
 ## usage
 
